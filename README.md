@@ -23,6 +23,9 @@ and like its NOT just a dumb boring speaker or some basic 3 button macropad that
 
 fun fact: i had to disgn this ENTIRE 3D enclosure on a litteral ancient 2012 intel 2nd gen Core i5 tower with NO gpu and onshape litterly froze my pc like 50 times at 3 AM and crashed my browser and i wanted to cry but WE FINIALLY MADE IT OUT ALIVE !!!!!!!! (i spent 40 mins wondering why my extrude was broken until i relized i had to click new instead of add lmaooo)
 
+🔗 **ONSHAPE 3D MODEL LINK (INSPECT IT IN YOUR BROWSER):**  
+👉 https://cad.onshape.com/documents/b2faf6ddaed43afc5f23715c/w/a55dc42bd27790c65e64b376/e/ee16a28059401b4fbaad3de5 (go check it out in 3D its actually sick !!)
+
 * **Brain:** ESP32-S3-DevKitC-1 (N16R8) with dual core 240mhz + 8MB octal psram (core 0 does the wifi + groq ai and core 1 does audio so the synth never stutters or lags)
 * **Audio Out:** MAX98357A I2S 3W class D amp going into a 40mm speaker inside a custom acoustic sealed chamber
 * **Display:** 1.28" circular SPI TFT (GC9A01) 240x240
