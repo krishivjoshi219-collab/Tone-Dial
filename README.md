@@ -8,6 +8,14 @@ and like its NOT just a dumb boring speaker or some basic 3 button macropad that
 
 ---
 
+## 📸 LOOK AT THIS BEAUTY !!!!!!!
+
+| 3D Enclosure Exploded View (Onshape) | The Actual PCB (KiCad 3D Viewer) |
+| :---: | :---: |
+| ![Tone Dial 3D Enclosure Exploded View](assets/onshape_enclosure_exploded.png) | ![Tone Dial PCB 3D Render](assets/kicad_pcb_3d_render.png) |
+
+---
+
 ## 🤯 WHAT DOES THIS EVEN DO LIKE ACTUALLY?!?!?!
 
 * 🎹 **CHORD SYNTH THAT DOESNT SOUND TRASH:** 4 mech switches wired to play a fire C-maj7 chord (C4, E4, G4, B4) runing on circuitpython `synthio` + `audiomixer` so it actually sounds like real music and not a microwave buzzer lmao
@@ -38,6 +46,7 @@ fun fact: i had to disgn this ENTIRE 3D enclosure on a litteral ancient 2012 int
 ## 📂 WHAT IS WHERE IN THIS REPO (SO YOU DONT GET LOST)
 
 ```
+├── assets/             <-- screenshots & 3d renders for the readme!
 ├── firmware/
 │   ├── code.py         <-- the big brain non-blocking circuitpython code!
 │   ├── brook.bmp       <-- 96x96 pixel art of brook with his afro & tiny hat
