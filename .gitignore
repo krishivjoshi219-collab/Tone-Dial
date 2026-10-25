@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+
+# KiCad locks and backups
+*.lck
+*.bak
+*.bak_*
+*.kicad_pcb.backup*
+*.kicad_pcb.bak*
+_restore_backup*/
+.history/
+~*
