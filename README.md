@@ -58,11 +58,8 @@ fun fact: i had to disgn this ENTIRE 3D enclosure on a litteral ancient 2012 int
 │   ├── Tone Dial.kicad_pro  <-- kicad project file
 │   └── Tone Dial.step       <-- 3d step model of the pcb
 ├── CAD/
-│   ├── Base_Tray.stl        <-- 3d printable bottom wedge with usb-c hole & pcb posts
-│   ├── Top_Faceplate.stl    <-- top plate with speaker grill, dial ring & button cutouts
-│   ├── Tone_Dial_Knob.stl   <-- knurled volume knob for the EC11 shaft
-│   ├── Tone_Dial_Complete_Enclosure.stl <-- full assembled 3d model
-│   └── Tone_Dial_Complete.dxf <-- vector outline profile
+│   ├── Tone Dial - Base Tray.stl <-- 3D printable bottom clamshell tray from Onshape
+│   └── Tone Dial - Top.stl       <-- 3D printable top faceplate from Onshape
 ├── Gerbers/
 │   ├── Tone Dial.zip        <-- ready to order gerbers for jlcpcb
 │   └── Tone Dial-*.gbl/gtl/drl <-- loose production files
