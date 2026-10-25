@@ -1,23 +1,22 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-MAX98357A I2S Audio Amp,1,Robu,$0.00,$0.00,https://robu.in/product/bgamax98357-i2s-amplifier-breakout-interface-decoder-module-without-soldering/
-INMP441 MEMS Microphone,1,Robu,$0.00,$0.00,https://robu.in/product/square-omnidirectional-microphone-module-soldered/
-GC9A01 1.28 Round LCD,1,Robu,$0.00,$0.00,https://robu.in/product/goldenmorning-gc9a01-7p-240x240-spi-1-28-inch-round-display-module/
-VL53L0X Laser Distance Sensor,1,Robu,$0.00,$0.00,https://robu.in/product/gy-53-vl53l0x-laser-tof-flight-time-ranging-sensor-module-serial-port-pwm-output/
-10k Slide Potentiometer,1,Robu,$0.00,$0.00,https://robu.in/product/pta4543-2015dpb103-bourns/
-EC11 Rotary Encoder,1,Robu,$0.00,$0.00,https://robu.in/product/hongyan-ec11h-7ce15p1zy15f7-rotary-encoder-with-push-button-switch-vertical-plug-in/
-5V Boost + Charger Module,1,Robu,$0.00,$0.00,https://robu.in/product/3-7v-18650-charge-boost-module-type-c-2a/
-30mm 8 Ohm Speaker,1,Robu,$0.00,$0.00,https://robu.in/product/gspk3005tn-8r0-5w-l300s-2-54t/
-SPDT Slide Switch,1,Robu,$0.00,$0.00,https://robu.in/product/ss12d10g6-shou-han-direct-insert-2a-single-pole-double-throw-spdt-125v-3000-times-plugin-slide-switches-rohs/
-JST-PH 2.0 Header,2,Robu,$0.00,$0.00,https://robu.in/product/b2b-ph-k-slfsn-jst-1x2p-2p-ph-tin-2-25%e2%84%8385%e2%84%83-2a-1-2mm-brass-straight-pluginp2mm-wire-to-board-connector-rohs/
-Female Header Strip (1x40),1,Robu,$0.00,$0.00,https://robu.in/product/1-40-pin-2-54m-straight-long-female-berg-strip-connector-pack-of-5/
-1N4148 Diodes,4,Robu,$0.00,$0.00,https://robu.in/product/1n4148-tap-vishay-1n4148-tap-small-signal-diode-single-100-v-150-ma-1-v-8-ns-2-a/
-4.7k Resistors,1,Robu,$0.00,$0.00,https://robu.in/product/4-7k-ohm-0-25w-metal-film-resistor-pack-of-100/
-100k Resistors,1,Robu,$0.00,$0.00,https://robu.in/product/100k-ohm-0-25w-metal-film-resistor-pack-of-100/
-100uF Capacitors,1,Robu,$0.00,$0.00,https://robu.in/product/100uf-16v-electrolytic-capacitor-pack-of-20/
-3.7V 1000mAh LiPo Battery,1,Amazon,$0.00,$0.00,https://www.amazon.in/dp/B08X4YGFX9/
-MX Switches (Kailh Red),4,Meckeys,$0.00,$0.00,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-switch-pack/
-Domestic Shipping (Robu + Meckeys),1,Robu,$0.00,$0.00,https://robu.in/
-PCB (5 pcs) + JLCPCB Global Air Freight,1,JLCPCB,$0.00,$0.00,https://www.jlcpcb.com/
-Print Legion 3D Enclosure Filament & Courier,1,Hackclub,$0.00,$0.00,https://hackclub.com/printlegion/
-Estimated total shipping,1,,$0.00,$0.00,
-Estimated total shipping,1,,,$0.00,
+ESP32-S3 DevKit (N16R8),1,Robu,$13.08,$13.08,https://robu.in/product/weact-studio-esp32-s3-devkitc-1-esp32-s3-wifi-bluetooth-compatible-ble-5-0-mesh-development-board-esp32-wireless-module-micropython/
+MAX98357A I2S Audio Amp,1,Robu,$2.13,$2.13,https://robu.in/product/bgamax98357-i2s-amplifier-breakout-interface-decoder-module-without-soldering/
+INMP441 MEMS Microphone,1,Robu,$2.49,$2.49,https://robu.in/product/square-omnidirectional-microphone-module-soldered/
+GC9A01 1.28 Round LCD,1,Robu,$5.73,$5.73,https://robu.in/product/goldenmorning-gc9a01-7p-240x240-spi-1-28-inch-round-display-module/
+VL53L0X Laser Distance Sensor,1,Robu,$6.89,$6.89,https://robu.in/product/gy-53-vl53l0x-laser-tof-flight-time-ranging-sensor-module-serial-port-pwm-output/
+10k Slide Potentiometer,1,Robu,$3.67,$3.67,https://robu.in/product/pta4543-2015dpb103-bourns/
+EC11 Rotary Encoder,1,Robu,$0.69,$0.69,https://robu.in/product/hongyan-ec11h-7ce15p1zy15f7-rotary-encoder-with-push-button-switch-vertical-plug-in/
+5V Boost + Charger Module,1,Robu,$0.70,$0.70,https://robu.in/product/3-7v-18650-charge-boost-module-type-c-2a/
+30mm 8 Ohm Speaker,1,Robu,$1.08,$1.08,https://robu.in/product/gspk3005tn-8r0-5w-l300s-2-54t/
+SPDT Slide Switch,1,Robu,$0.23,$0.23,https://robu.in/product/ss12d10g6-shou-han-direct-insert-2a-single-pole-double-throw-spdt-125v-3000-times-plugin-slide-switches-rohs/
+JST-PH 2.0 Header,2,Robu,$0.11,$0.22,https://robu.in/product/b2b-ph-k-slfsn-jst-1x2p-2p-ph-tin-2-25%e2%84%8385%e2%84%83-2a-1-2mm-brass-straight-pluginp2mm-wire-to-board-connector-rohs/
+Female Header Strip (1x40),1,Robu,$1.17,$1.17,https://robu.in/product/1-40-pin-2-54m-straight-long-female-berg-strip-connector-pack-of-5/
+1N4148 Diodes,4,Robu,$0.08,$0.32,https://robu.in/product/1n4148-tap-vishay-1n4148-tap-small-signal-diode-single-100-v-150-ma-1-v-8-ns-2-a/
+4.7k Resistors,1,Robu,$0.14,$0.14,https://robu.in/product/4-7k-ohm-0-25w-metal-film-resistor-pack-of-100/
+100k Resistors,1,Robu,$0.13,$0.13,https://robu.in/product/100k-ohm-0-25w-metal-film-resistor-pack-of-100/
+100uF Capacitors,1,Robu,$0.18,$0.18,https://robu.in/product/100uf-16v-electrolytic-capacitor-pack-of-20/
+3.7V 1000mAh LiPo Battery,1,Amazon,$4.56,$4.56,https://www.amazon.in/dp/B08X4YGFX9/
+MX Switches (Kailh Red),4,Meckeys,$0.42,$1.68,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-switch-pack/
+Domestic Shipping (Robu + Meckeys),1,Robu,$2.02,$2.02,https://robu.in/
+PCB (5 pcs) + JLCPCB Global Air Freight,1,JLCPCB,$13.83,$13.83,https://www.jlcpcb.com/
+Print Legion 3D Enclosure Filament & Courier,1,Hackclub,$6.00,$6.00,https://hackclub.com/printlegion/
