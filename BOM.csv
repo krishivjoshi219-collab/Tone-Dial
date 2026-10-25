@@ -1,2 +1,18 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-Estimated total shipping,1,,,$0.00,
+ESP32-S3-WROOM-1 DevKit (N16R8 16MB Flash 8MB PSRAM),1,Robu.in,₹649.00,₹649.00,https://robu.in/product/esp32-s3-devkit-n16r8-wifi-bluetooth-dev-board/
+MAX98357A I2S 3W Class D Audio Amplifier Module,1,Robu.in,₹199.00,₹199.00,https://robu.in/product/max98357-i2s-3w-class-d-amplifier-breakout-board/
+INMP441 I2S MEMS Omnidirectional Microphone Module,1,Robu.in,₹149.00,₹149.00,https://robu.in/product/inmp441-mems-high-precision-omnidirectional-microphone-module-i2s/
+GC9A01 1.28 Inch Round TFT LCD Display (240x240 SPI),1,Robu.in,₹499.00,₹499.00,https://robu.in/product/1-28-inch-round-tft-lcd-display-module-gc9a01/
+VL53L0X Time-of-Flight Laser Distance Sensor Module,1,Robu.in,₹249.00,₹249.00,https://robu.in/product/gy-53-vl53l0x-laser-ranging-sensor-module/
+10k Sliding Linear Potentiometer (Slide Pot),1,Robu.in,₹119.00,₹119.00,https://robu.in/product/sliding-adjustable-potentiometer-module-10k/
+EC11 Rotary Encoder with Push Button Switch,1,Robu.in,₹69.00,₹69.00,https://robu.in/product/ec11-rotary-encoder-module/
+TP4056 1A Li-Ion Battery Charger with Type-C & Protection,1,Robu.in,₹29.00,₹29.00,https://robu.in/product/tp4056-type-c-usb-5v-1a-lithium-battery-charger-module/
+3.7V 1000mAh 1S LiPo Battery with JST-PH 2.0 Connector,1,Robu.in,₹299.00,₹299.00,https://robu.in/product/pro-range-3-7v-1000mah-1s-lipo-battery/
+Enclosed Stereo Speaker 3W 8Ω (40mm / JST PH2.0),1,Robu.in,₹129.00,₹129.00,https://robu.in/product/stereo-enclosed-speaker-3w-8%cf%89/
+Kailh Choc V1 Low-Profile Mechanical Switches (4-pack),4,StacksKB / MechKeys,₹40.00,₹160.00,https://stackskb.com/store/kailh-choc-v1-switches/
+SPDT Slide Switch (SS12D00),1,Robu.in,₹10.00,₹10.00,https://robu.in/product/spdt-slide-switch/
+Passives Kit (100uF Cap + 4x 1N4148 Diodes + Resistors),1,Robu.in,₹50.00,₹50.00,https://robu.in/product/assorted-resistor-capacitor-diode-kit/
+Female Header Pins (2.54mm pitch 40-pin strip),2,Robu.in,₹15.00,₹30.00,https://robu.in/product/2-54mm-female-berg-strip-40x1/
+Tone Dial Custom 2-Layer PCB (5 pcs prototype),1,JLCPCB,$4.00,₹336.00,https://jlcpcb.com/
+Estimated shipping & taxes,1,Robu.in / Courier,₹150.00,₹150.00,https://robu.in/
+Total Estimated Cost,1,,,₹3227.00 (~$38.40 USD),
